@@ -94,14 +94,7 @@ This prevents overlapping text + sprite for maximum clarity.
 ### Wiring Overview
 (If you include wiring.png or system diagram images, upload them inside `/docs`)
 
----
 
-## 📁 File Structure
-/code.py → Main game code
-/README.md → Documentation
-/docs/ → System diagram, wiring diagram (optional)
-/images/ → Pet sprite images (optional)
----
 
 ## 🚀 How to Run  
 1. Flash **CircuitPython** onto the Xiao ESP32-C3  
